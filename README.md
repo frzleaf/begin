@@ -1,3 +1,3 @@
 # Begin
 
-Source code to read at begin
+Code to read at begin
